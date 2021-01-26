@@ -1,6 +1,10 @@
-package com.laca.springdemo;
+package com.laca.springdemo.coach;
 
 public interface Coach {
 
-    public String getDailyWorkout();
+    String getDailyWorkout();
+
+    String getDailyFortune();
+
+    String getTeam();
 }

@@ -1,2 +1,6 @@
-package com.laca.springdemo.service;public interface FortuneService {
+package com.laca.springdemo.service;
+
+public interface FortuneService {
+
+    String getFortune();
 }

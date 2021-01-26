@@ -4,8 +4,11 @@
        http://www.springframework.org/schema/beans/spring-beans.xsd
        http://www.springframework.org/schema/context
        http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:property-placeholder location="sport.properties"/>
+
     <bean id="fortuneService"
-          class="com.laca.springdemo.service.HappyFortuneService">
+          class="com.laca.springdemo.service.LuckyFortuneService">
     </bean>
 
     <bean id="baseballCoach"
@@ -15,7 +18,7 @@
     <bean id="lolCoach"
           class="com.laca.springdemo.coach.LolCoach">
         <constructor-arg ref="fortuneService"/>
-        <constructor-arg value="Unicorns of Love"/>
+        <constructor-arg value="${lol.team}"/>
     </bean>
 
     <bean id="trackCoach"
