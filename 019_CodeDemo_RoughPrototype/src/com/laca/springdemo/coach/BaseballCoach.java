@@ -1,3 +1,5 @@
+package com.laca.springdemo;
+
 public class BaseballCoach implements Coach {
 
     public String getDailyWorkout() {

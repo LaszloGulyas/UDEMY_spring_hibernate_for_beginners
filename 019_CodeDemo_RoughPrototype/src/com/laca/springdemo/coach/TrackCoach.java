@@ -1,3 +1,5 @@
+package com.laca.springdemo;
+
 public class TrackCoach implements Coach {
 
     @Override
