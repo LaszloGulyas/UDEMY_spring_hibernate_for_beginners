@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/019_CodeDemo_RoughPrototype/019_CodeDemo_RoughPrototype.iml" filepath="$PROJECT_DIR$/019_CodeDemo_RoughPrototype/019_CodeDemo_RoughPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_hibernate_for_beginners.iml" filepath="$PROJECT_DIR$/spring_hibernate_for_beginners.iml" />
+    </modules>
+  </component>
+</project>
