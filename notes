@@ -1,0 +1,13 @@
+inversion of control: principle of delegating responsibility of creating dependencies to another, external object/framework.
+
+dependency injection: one possibile good implementation of IoC, used in spring. Relies on singleton/factory/strategy design patterns. Separates the high-level application from the low-level details of creating dependencies. Reduces boiler-plate codes and the coupling complexity. Eases the switching between dependencies and allows runtime manipulation of codes to be executed.
+
+applicationContext.xml: stores the relevant informations about beans, dependencies. 
+
+global variables: store key-value pairs in a *.properties file. Then keys can be referenced by ${key} syntax in xml environment
+
+init/destroy: both managed by spring. In case of prototype scoped objectives, only init methods are managed by spring and destroys are never be called. The only way to call them is using the bean post processor. Both init and destroy methods must be no-arg methods.
+
+scopes: singleton (default), prototype
+
+annotations: reduces the amount of written xml configurations. 

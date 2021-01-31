@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/019_CodeDemo_RoughPrototype/019_CodeDemo_RoughPrototype.iml" filepath="$PROJECT_DIR$/019_CodeDemo_RoughPrototype/019_CodeDemo_RoughPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/44_BeanScopes/44_BeanScopes.iml" filepath="$PROJECT_DIR$/44_BeanScopes/44_BeanScopes.iml" />
       <module fileurl="file://$PROJECT_DIR$/48_BeanLifeCycle/48_BeanLifeCycle.iml" filepath="$PROJECT_DIR$/48_BeanLifeCycle/48_BeanLifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51_Annotations/51_Annotations.iml" filepath="$PROJECT_DIR$/51_Annotations/51_Annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_hibernate_for_beginners.iml" filepath="$PROJECT_DIR$/spring_hibernate_for_beginners.iml" />
     </modules>
   </component>
