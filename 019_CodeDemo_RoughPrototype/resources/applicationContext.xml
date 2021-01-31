@@ -12,7 +12,8 @@
     </bean>
 
     <bean id="baseballCoach"
-          class="com.laca.springdemo.coach.BaseballCoach">
+          class="com.laca.springdemo.coach.BaseballCoach"
+          scope="singleton">
         <constructor-arg ref="fortuneService"/>
     </bean>
     <bean id="lolCoach"

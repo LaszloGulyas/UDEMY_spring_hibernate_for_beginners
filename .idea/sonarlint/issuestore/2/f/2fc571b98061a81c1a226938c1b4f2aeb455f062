@@ -1,0 +1,18 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "team: " 3 times.(ψ‰µυ8•΄όσ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(π½°Ά8νª¨ωσ.
+o
+java:S1192"MDefine a constant instead of duplicating this literal "\npractice: " 3 times.(λ• ”ωÿÿÿÿ8Β‰Ηϊσ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ψ‰µυ8•΄όσ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(π½°Ά8όί§ωσ.
+G
+java:S1068"*Remove this unused "logger" private field.(·Ι²8ΪΒόσ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ψ‰µυ8—ι³όσ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(π½°Ά8όΖΑϊσ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(λ• ”ωÿÿÿÿ8όΖΑϊσ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ψ‰µυ8•΄όσ.
+g
+java:S1192"JDefine a constant instead of duplicating this literal "fortune: " 3 times.(π½°Ά8όΖΑϊσ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(λ• ”ωÿÿÿÿ8Ρ‰βωσ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(λ• ”ωÿÿÿÿ8ΪΒόσ.
